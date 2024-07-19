@@ -90,7 +90,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="45" alt="tailwindcss logo"  />
     <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=black&style=for-the-badge" height="45" alt="flask logo"  />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="45" alt="flask logo"  />
 </div>
 
 ###
