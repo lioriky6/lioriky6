@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋 I'm Lior, a computer science student with a diverse range of interests. While I'm exploring different aspects of technology, I find myself particularly drawn to the exciting challenges and potential of machine learning. It's an area that ✨sparks✨my curiosity and keeps me engaged in the world of computer science.<br><br>🤖 This text was crafted with a little help from my very close friend, ChatGPT! 🌟<br>👆<br>This text was 2, this mf took credit.</h2>
+<h2 align="center">Hey there 👋 I'm Lior, a computer engineering student at Technion university. While I'm exploring different aspects of technology, I find myself particularly drawn to the exciting challenges and potential of machine learning. It's an area that ✨sparks✨my curiosity and keeps me engaged in the world of computer science.<br><br>🤖 This text was crafted with a little help from my very close friend, ChatGPT! 🌟<br>👆<br>This text was 2, this mf took credit.</h2>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ###
 
-<h2 align="center">Passionate mastering:</h2>
+<h2 align="center">Interested in:</h2>
 
 ###
 
